@@ -8,4 +8,4 @@ Each artist's folder holds the models as published, a JSON record of each model'
 
 ## Licence
 
-Each model is under the licence its JSON record names, CC BY 4.0, and is attributed to the author and source that record gives.
+CC BY 4.0. See [LICENSE](LICENSE). Each model is under the licence its JSON record names, CC BY 4.0, and is attributed to the author and source that record gives.
